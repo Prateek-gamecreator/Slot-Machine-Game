@@ -3,7 +3,7 @@
 A 3-reel slot machine game built in Unity (WebGL).
 
 ## Play Online
-[Click here to play]([https://yourusername.github.io/repo-name](https://prateek-gamecreator.github.io/Slot-Machine-Game/WebGL))
+[Click here to play]((https://prateek-gamecreator.github.io/Slot-Machine-Game/WebGL))
 
 ## How to Play
 - On start, a bet menu appears on the right
